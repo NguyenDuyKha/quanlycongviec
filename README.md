@@ -1,15 +1,9 @@
 # quanlycongviec
 
 ## Mo ta
-### Frontend
-### Backend
-### Database
 
 
 ## Cong nghe
-### Node JS
-### React
-### MySQL
 
 ## Huong dan cai dat
 ## Step 1
