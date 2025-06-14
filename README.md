@@ -1,6 +1,9 @@
 # quanlycongviec
 
 ## Mo ta
+### Frontend
+### Backend
+### Database
 
 
 ## Cong nghe
